@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-05-07 15:37:02
- * @LastEditTime: 2020-05-12 14:54:56
+ * @LastEditTime: 2020-05-12 16:55:06
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \shuying2020\src\pages\showImage\index.vue
@@ -17,7 +17,9 @@
 export default {
   name: 'showImages',
    data() {
-  
+     return {
+       
+     }
   } 
 }
 </script>

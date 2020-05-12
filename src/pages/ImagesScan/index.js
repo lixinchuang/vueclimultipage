@@ -10,7 +10,7 @@ import Vue from 'vue'
 import App from './index.vue'
 import store from '../../store'
 
-import '../../assets/css/bootstrap.css' 
+ 
 import "core-js/stable";
 import "regenerator-runtime/runtime";
 Vue.config.productionTip = false
